@@ -1,4 +1,4 @@
-🧅 Onion Madder
+🧅nion Madder
 
 _Everything is intentional_ 
 
@@ -12,6 +12,7 @@ The Worminal is not a game. She's a system.
 You choose how she responds. You choose what she remembers.
 
 _My frontend is intimacy_ 
+
 _My backend is control_
 
 
