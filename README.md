@@ -1,4 +1,5 @@
 🧅 Onion Madder
+
 _Everything is intentional_ 
 
 I'm autistic and I make things that speak better than my mouth can.
@@ -10,8 +11,8 @@ Everything I make is modular, intentional, and browser-native. No frameworks. No
 The Worminal is not a game. She's a system.
 You choose how she responds. You choose what she remembers.
 
-> My frontend is intimacy.  
-> My backend is control.
+_My frontend is intimacy_ 
+_My backend is control_
 
 
 **Website:** [onionmadder.xyz](https://onionmadder.xyz)  
