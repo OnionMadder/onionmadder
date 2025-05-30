@@ -10,7 +10,8 @@ Everything I make is modular, intentional, and browser-native. No frameworks. No
 
 No borrowed aesthetics.
 
-The Worminal is not a game. She's a system. 🐛🐛🐛
+The Worminal is not a game. She's a system. 
+🐛🐛🐛
 
 💖You choose how she responds. You choose what she remembers💖
 
