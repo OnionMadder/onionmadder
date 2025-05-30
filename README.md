@@ -1,16 +1,19 @@
-## Hi there 👋
+🧅 Onion Madder
+_Everything is intentional_ 
 
-<!--
-**OnionMadder/onionmadder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm autistic and I make things that speak better than my mouth can.
 
-Here are some ideas to get you started:
+I build handcrafted web terminals, emotional recursion engines, and haunted interfaces that remember how you treat them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything I make is modular, intentional, and browser-native. No frameworks. No bloat. No borrowed aesthetics.
+
+The Worminal is not a game. She's a system.
+You choose how she responds. You choose what she remembers.
+
+> My frontend is intimacy.  
+> My backend is control.
+
+
+**Website:** [onionmadder.xyz](https://onionmadder.xyz)  
+**Projects:** [The Worminal](https://onionmadder.xyz/worminal)  
+**Email:** onionmadder@gmail.com
