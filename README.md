@@ -1,25 +1,30 @@
-🧅nion Madder
+# 🧅nion Madder
 
-_Everything is intentional_ 
+**Everything is intentional.**  
+I build browser-native interactive systems: emotional terminals, recursion engines, and haunted interfaces that remember how you treat them.
 
-I'm autistic and I make things that speak better than 💋my mouth💋 can.
+### Start here
+- **The Worminal** — a terminal that responds, escalates, and remembers.  
+- **You Said This Was Home** — audio-driven branching horror with memory paths.  
+- **Nodehole** — platform experiments for indie + queer interactive work.  
 
-I build 🖥️emotional terminals🖥️, recursion engines, and haunted interfaces that remember how you treat them.
+### What I make
+- **Terminal fiction** with weighted responses + state
+- **Choice-driven scenes** with emotional momentum
+- **Audio-first web experiences** (ambient + narrative layers)
+- **UI that looks cute until it looks back**
 
-Everything I make is modular, intentional, and browser-native. No frameworks. No bloat. 
+### How I build
+- **Vanilla JS / HTML / CSS** (modular, no frameworks)
+- **Browser-native** over dependencies
+- **Accessible + readable** (I care about clarity and control)
+- I’m autistic — I work best with precision, structure, and direct feedback.
 
-No borrowed aesthetics.
+### Links
+- Website: https://onionmadder.xyz  
+- Itch: https://onionmadder.itch.io  
+- Ko-fi: https://ko-fi.com/onionmadder  
+- Email: onionmadder@gmail.com  
 
-The Worminal is not a game. She's a system. 
-🐛🐛🐛
-
-💖You choose how she responds. You choose what she remembers💖
-
-_My frontend is intimacy_ 
-
-_My backend is control_
-
-
-**Website:** [onionmadder.xyz](https://onionmadder.xyz)  
-**Projects:** [The Worminal](https://onionmadder.xyz/worminal)  
-**Email:** onionmadder@gmail.com
+> My frontend is intimacy.  
+> My backend is control.
