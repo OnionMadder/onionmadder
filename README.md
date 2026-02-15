@@ -1,12 +1,15 @@
 # 🧅nion Madder
 
 **Everything is intentional.**  
+Everything is intentional.
+
 I build browser-native interactive systems: emotional terminals, recursion engines, and haunted interfaces that remember how you treat them.
 
+
 ### Start here
-- **The Worminal** — a terminal that responds, escalates, and remembers.  
-- **You Said This Was Home** — audio-driven branching horror with memory paths.  
-- **Nodehole** — platform experiments for indie + queer interactive work.  
+- **The Worminal** - https://nodehole.com/erotic/worminal/ - a terminal that responds, escalates, and remembers.  
+- **You Said This Was Home** -  https://nodehole.com/narrative/ystwh/ - audio-driven branching horror with memory paths.  
+- **Nodehole** - https://nodehole.com/ - platform experiments for indie + queer interactive work.  
 
 ### What I make
 - **Terminal fiction** with weighted responses + state
