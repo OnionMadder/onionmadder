@@ -1,10 +1,8 @@
 # 🧅nion Madder
 
 **Everything is intentional.**  
-Everything is intentional.
 
 I build browser-native interactive systems: emotional terminals, recursion engines, and haunted interfaces that remember how you treat them.
-
 
 ### Start here
 - **The Worminal** - https://nodehole.com/erotic/worminal/ - a terminal that responds, escalates, and remembers.  
