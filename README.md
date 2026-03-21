@@ -1,31 +1,29 @@
-# 🧅nion Madder
+🧅nion Madder | Technical Studio & Watchdog
+Everything is intentional. High-performance, low-bloat, zero-dependency.
 
-**Everything is intentional.**  
+I build browser-native systems that perform under pressure: emotional terminals, recursion engines, and civil rights archives that remember how you treat them.
 
-I build browser-native interactive systems: emotional terminals, recursion engines, and haunted interfaces that remember how you treat them.
+## Core Infrastructure & Active Research
+TheBalaFiles.com – Digital preservation and recursion engine. A living repository for high-stakes archival data, built to be resilient, searchable, and permanent.
 
-### Start here
-- **The Worminal** - https://nodehole.com/erotic/worminal/ - a terminal that responds, escalates, and remembers.  
-- **You Said This Was Home** -  https://nodehole.com/narrative/ystwh/ - audio-driven branching horror with memory paths.  
-- **Nodehole** - https://nodehole.com/ - platform experiments for indie + queer interactive work.  
+The Onion Madder Archives – Civil rights watchdogging via AI-assisted investigation. Using LLMs as a precision scalpel for data extraction and public-interest documentation.
 
-### What I make
-- **Terminal fiction** with weighted responses + state
-- **Choice-driven scenes** with emotional momentum
-- **Audio-first web experiences** (ambient + narrative layers)
-- **UI that looks cute until it looks back**
+Nodehole.com – Infrastructure experiments for indie + queer interactive work. Migrated to Django/WSL for stateful narrative and memory-heavy backend control.
 
-### How I build
-- **Vanilla JS / HTML / CSS** (modular, no frameworks)
-- **Browser-native** over dependencies
-- **Accessible + readable** (I care about clarity and control)
-- I’m autistic — I work best with precision, structure, and direct feedback.
+## Diegetic Accessibility & UI Design
+WCAG-as-Architecture – I don't "add" accessibility; I build it into the bone. My UIs use semantic HTML5 to create high-performance, screen-reader-first experiences that feel like part of the system's "personality."
 
-### Links
-- Website: https://onionmadder.xyz  
-- Itch: https://onionmadder.itch.io  
-- Ko-fi: https://ko-fi.com/onionmadder  
-- Email: onionmadder@gmail.com  
+Meaningful Navigation – Designing interfaces where the pathing is the narrative. No bloat, no frameworks—just clear, intentional DOM manipulation that respects user agency and hardware.
 
-> My frontend is intimacy.  
-> My backend is control.
+Mad Sundar LLC – madsundar.com – Technical studio specializing in "Invisible Infrastructure": fast, accessible builds for small businesses and public-interest projects.
+
+## Technical Stack
+Engine: Django / Python 3.14 (Logic-heavy backends for stateful narrative)
+
+Frontend: Vanilla JS / HTML5 / CSS3 (Pure DOM manipulation; zero framework bloat)
+
+Environment: Linux / WSL2 / Git (Version control as the baseline for truth)
+
+Standards: AA/AAA WCAG Compliance as a structural requirement
+
+My frontend is intimacy. My backend is control.
