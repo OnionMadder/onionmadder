@@ -11,7 +11,7 @@
 * **[Nodehole.com](https://nodehole.com)** — Infrastructure for stateful narrative. Memory-heavy backend control.
 
 ### [ SYSTEM_SPECIFICATIONS ]
-**"My frontend is intimacy. My backend is control."**
+**My frontend is intimacy. My backend is control.**
 
 * **DIETIC ACCESSIBILITY:** I build for the bone. High-performance, screen-reader-first experiences using semantic HTML5. No bloat. No frameworks.
 * **LOGIC & PROVENANCE:** Python 3.14 / Django. Logic-heavy backends for systems that perform under pressure.
