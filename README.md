@@ -7,7 +7,7 @@
 
 ### [ ARCHIVAL_NODES ]
 * **[TheBalaFiles.com](https://thebalafiles.com)** — A living repository for high-stakes archival data. Built for permanence.
-* **[The Onion Madder Archives]** — Civil rights watchdogging via AI-assisted investigation. LLMs as a precision scalpel.
+* **[The Onion Madder Archives](https://onionmadder.com)** — Civil rights watchdogging via AI-assisted investigation. LLMs as a precision scalpel.
 * **[Nodehole.com](https://nodehole.com)** — Infrastructure for stateful narrative. Memory-heavy backend control.
 
 ### [ SYSTEM_SPECIFICATIONS ]
