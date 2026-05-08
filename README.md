@@ -5,10 +5,10 @@
 
 ---
 
-### [ ARCHIVAL_NODES ]
-* **[TheBalaFiles.com](https://thebalafiles.com)** — A living repository for high-stakes archival data. Built for permanence.
-* **[The Onion Madder Archives](https://onionmadder.com)** — Civil rights watchdogging via AI-assisted investigation. LLMs as a precision scalpel.
-* **[Nodehole.com](https://nodehole.com)** — Infrastructure for stateful narrative. Memory-heavy backend control.
+### [ NODES ]
+* **[The Onion Madder Archives](https://onionmadder.com)** — Civil rights oversight through AI-assisted OSINT. Utilizing LLMs for high-precision investigative forensics.
+* **[Nodehole.com](https://nodehole.com)** —  Unrestricted indie games. No limits, no trackers, native performance.
+* **[MadderVerse.org](https://nodehole.com)** — Privacy-first interactive media for children. Ad-free, family-focused mini-games.
 
 ### [ SYSTEM_SPECIFICATIONS ]
 **My frontend is intimacy. My backend is control.**
